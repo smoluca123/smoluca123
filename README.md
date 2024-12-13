@@ -30,6 +30,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="25" height="25" />
 </p>
 
+<!--![](https://github-readme-stats.vercel.app/api?username=smoluca123&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
+
+# Trophies
+![](https://github-trophies.vercel.app/?username=smoluca123&theme=onedark&no-frame=false&no-bg=false&margin-w=4)<br><br>
+# Stats
 ![](https://streak-stats.demolab.com?user=smoluca123&theme=omni&hide_border=false)
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=smoluca123&theme=dark)](https://git.io/streak-stats)-->
 
