@@ -29,4 +29,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vs-code" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="25" height="25" />
 </p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=smoluca123&show_icons=true&count_private=true" alt="smoluca123" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=smoluca123&show_icons=true&count_private=true" alt="smoluca123" /> -->
